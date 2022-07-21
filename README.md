@@ -177,6 +177,8 @@ El condensador seria muy grande y ademas poco practico, las placas serian de 1.2
 
 ![](
 
+El voltaje de un capacitor en paralelo sera igual al voltaje de la fuente.
+
 30. Determine la constante de tiempo para cada una de las combinaciones en serie:
 
 ![](
