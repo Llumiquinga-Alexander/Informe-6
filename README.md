@@ -139,6 +139,8 @@ CAPÍTULO 12:
 
 ![](
 
+El condensador seria muy grande y ademas poco practico, las placas serian de 1.2 milis porque no entraria en el Astrodomo
+
 12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
 
 ![](
