@@ -31,91 +31,91 @@ CAPÍTULO 11:
 
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia: (a) 1 Hz (b) 60 Hz (c) 500 Hz (d) 1 kHz (e) 200 kHz (f) 5 MHz
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/2.png)
 
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/4.png)
 
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/6.png)
 
 8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores: (a) rms (b) pico a pico (c) promedio.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/8.png)
 
 10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/10.png)
 
 12. Cambie los siguientes valores angulares de radianes a grados:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/12.png)
 
 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/14.png)
 
 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/16.png)
 
 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/18.png)
 
 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/20.png)
 
 22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.+
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/22.png)
 
 24. Determine la frecuencia para cada velocidad angular: (a) 60 rad/s (b) 360 rad/s (c) 2 rad/s (d) 1256 rad/s
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/24.png)
 
 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/26.png)
 
 28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/28.png)
 
 30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/30.png)
 
 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/32.png)
 
 34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 μs. ¿Cuál es el ciclo de trabajo en porcentaje?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/34.png)
 
 36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/36.png)
 
 38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/38.png)
 
 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/40.png)
 
 42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/42.png)
 
 44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/44.png)
 
 CAPÍTULO 12:
 
