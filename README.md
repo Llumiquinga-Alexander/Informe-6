@@ -121,29 +121,29 @@ CAPÍTULO 12:
 
 2. Transforme los siguientes valores de microfarads a picofarads:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%202.png)
 
 4. Transforme los siguientes valores de farads a microfarads;
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%204.png)
 
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%206.png)
 
 8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%208.png)
 
 10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (E_r= 2.5) de 〖8X10〗^(-5) m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2010.png)
 
 El condensador seria muy grande y ademas poco practico, las placas serian de 1.2 milis porque no entraria en el Astrodomo
 
 12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2012.png)
 
 14. 
 
@@ -151,77 +151,77 @@ El condensador seria muy grande y ademas poco practico, las placas serian de 1.2
 
 16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2016.png)
 
 18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2018.png)
 
 20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2020.png)
 
 22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2022.png)
 
 24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2024.png)
 
 26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2026.png)
 
 28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2028.png)
 
 El voltaje de un capacitor en paralelo sera igual al voltaje de la fuente.
 
 30. Determine la constante de tiempo para cada una de las combinaciones en serie:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2030.png)
 
 32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2032.png)
 
 34. Repita el problema 32 con los siguientes intervalos de tiempo:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2034.png)
 
 36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2036.png)
 
 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2038.png)
 
 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 μs después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2040.png)
 
 42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2042.png)
 
 44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω? ¿Una XC de 1 kΩ?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2044.png)
 
 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 μF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2046.png)
 
 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2048.png)
 
 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2050.png)
 
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
@@ -229,7 +229,7 @@ Tiene que ser 0 Ω para proporcionar un cortocircuito a tierra.
 
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/el%2054.png)
 
 Video
 
