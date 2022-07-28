@@ -233,7 +233,7 @@ Tiene que ser 0 Ω para proporcionar un cortocircuito a tierra.
 
 Video
 
-ll
+https://youtu.be/y8CjakomOmk
 
 CONCLUSIONES
 
