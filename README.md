@@ -21,9 +21,9 @@ Desarrollar optimamente las resoluciones de ecuaciones simultáneas de manera ma
 
 Márco teórico:
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/mapa.png)
 
-![](
+![](https://github.com/Llumiquinga-Alexander/Informe-6/blob/main/mapa2.png)
 
 EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 
